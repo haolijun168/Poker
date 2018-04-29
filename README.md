@@ -3,7 +3,7 @@
 
 <br> <br>
 
-<h1> ColorBox </h1>
+<h1> 百家楽-BlackJackPoker </h1>
 <h3> </h3></div>
 
 <br>
@@ -35,6 +35,6 @@ Remarks: The money in the game is virtual and is only used in the game and canno
 
 
 ### User Information
-mto28@sina.com
+hdzq9@sina.com
 <br>
-tell: +60133885222
+tell: +60133883241
